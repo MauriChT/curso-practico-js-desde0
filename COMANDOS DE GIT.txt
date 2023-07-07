@@ -1,0 +1,5 @@
+Este comando podemos ejeuctarlo en el editor de comando.
+
+$ code ./ -r	//  ./ permite agregar una carpeta al editor de visual studio, y que no lo agregue como carpeta separada, -r para que no arranque otra ventana de Visual Studio, sino utlice en la que estamos.
+------------------------------------------------------------------------------------------------------------
+

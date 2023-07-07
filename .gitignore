@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#MIS COMANDOS DE GIT 
+.COMANDOS DE GIT.txt 
